@@ -5,26 +5,9 @@
 </p>
 	
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center" border="0">
-<tr>
-<td align="center" class="stats-cell">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HOUD-FatimaEzzahra&theme=dark&show_icons=true&count_private=true" />
-</td>
-<td align="center" class="stats-cell">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HOUD-FatimaEzzahra&layout=compact&theme=dark&bg_color=0A0A0A" /> 
-  </td>
-</tr>
-<tr align="center">
- <td align="center" class="stats-cell">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOUD-FatimaEzzahra&layout=compact&theme=dark&bg_color=0A0A0A" alt="Fatiza Top Languages"/>  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-</div>
+![Fatiza's github stats](https://github-readme-stats.vercel.app/api?username=HOUD-FatimaEzzahra&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HOUD-FatimaEzzahra&theme=tokyonight" alt="mystreak"/>
+![Fatiza's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOUD-FatimaEzzahra&theme=tokyonight&layout=compact)
 
 
 
