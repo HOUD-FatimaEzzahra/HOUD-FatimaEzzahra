@@ -17,7 +17,7 @@
 
 
 <div>
-   <h2>My Github Stats</h2>
+   <h3>My Github Stats</h3>
 </div>
 <div align="center">
   <table align="center" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
