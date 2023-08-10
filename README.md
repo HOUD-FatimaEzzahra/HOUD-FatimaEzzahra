@@ -3,7 +3,7 @@
 </div>
 <hr> <!-- Ligne de séparation -->
 <div>
-   <h2>Connect With Me</h2>
+   <h3>Connect With Me</h3>
 </div>
 <div align="center">
   <div>
