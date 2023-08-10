@@ -4,8 +4,9 @@
 <hr> <!-- Ligne de séparation -->
 
 
-<h2>My Github Stats</h2>
+
 <div align="center">
+  <h2>My Github Stats</h2>
   <table align="center" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
     <tr>
       <td style="border: none; padding: 0; text-align: center;">
