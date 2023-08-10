@@ -13,14 +13,14 @@
 <td  align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=HOUD-FatimaEzzahra&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HOUD-FatimaEzzahra&theme=dark&hide_border=false" /> 
+  
+
 </td>
 
 <td  align="center">
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOUD-FatimaEzzahra&layout=compact&theme=dark&bg_color=0A0A0A" alt="Fatiza Top Languages"/>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HOUD-FatimaEzzahra&theme=dark&hide_border=false" /> 
   
   </td>
   
