@@ -10,18 +10,18 @@
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
-<td  align="center">
+<td  align="center" border="none">
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=HOUD-FatimaEzzahra&theme=dark&show_icons=true&count_private=true" />
 </td>
-<td  align="center">
+<td  align="center" border="none">
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HOUD-FatimaEzzahra&layout=compact&theme=dark&bg_color=0A0A0A" /> 
   </td>
 
 </tr>
-<tr>
+<tr align="center" border="none">
 	
 
- <td  align="center">
+ <td  align="center" border="none">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOUD-FatimaEzzahra&layout=compact&theme=dark&bg_color=0A0A0A" alt="Fatiza Top Languages"/>  
   </td>
 </tr>
