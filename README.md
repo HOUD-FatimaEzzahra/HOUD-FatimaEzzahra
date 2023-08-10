@@ -3,10 +3,6 @@
 [![](https://readme-typing-svg.herokuapp.com/?color=787b8f&duration=2500&pause=1000&size=35&center=true&vCenter=true&width=1000&lines=Hiliw+I'm+HOUD+Fatima-Ezzahra+🌸;Engineering+student;Computer+Engineering;Big+Data+and+Cloud+Computing;@+ENSET+Mohammedia)](https://git.io/typing-svg)
 
 
-
-
-
-<div>
 <div>
   <table align="center" style="border-collapse: collapse;">
     <tr>
@@ -19,11 +15,12 @@
     </tr>
   </table>
 </div>
-<div>
+<div class="centered-image">
   <div style="text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOUD-FatimaEzzahra&theme=material-palenight&layout=compact"/>
   </div>
 </div>
+
 
 
 
