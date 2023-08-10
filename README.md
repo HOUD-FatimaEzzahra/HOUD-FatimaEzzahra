@@ -1,12 +1,12 @@
 	
-	
+<div>
 [![](https://readme-typing-svg.herokuapp.com/?color=787b8f&duration=2500&pause=1000&size=35&center=true&vCenter=true&width=1000&lines=Hiliw+I'm+HOUD+Fatima-Ezzahra+🌸;Engineering+student;Computer+Engineering;Big+Data+and+Cloud+Computing;@+ENSET+Mohammedia)](https://git.io/typing-svg)
 
 
 
 
 
-	
+
 <div>
   <table align="center" style="border-collapse: collapse;">
     <tr>
