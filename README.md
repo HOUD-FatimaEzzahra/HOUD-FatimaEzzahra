@@ -5,16 +5,19 @@
 </p>
 	
 <div class="row">
-<div class="col-6">
-	<img src="https://github-readme-stats.vercel.app/api?username=HOUD-FatimaEzzahra&show_icons=true&theme=tokyonight"/>
+  <div class="col-6">
+    <img src="https://github-readme-stats.vercel.app/api?username=HOUD-FatimaEzzahra&show_icons=true&theme=tokyonight"/>
+  </div>
+  <div class="col-6">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HOUD-FatimaEzzahra&theme=tokyonight" alt="mystreak"/>
+  </div>
 </div>
-<div class="col-6">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=HOUD-FatimaEzzahra&theme=tokyonight" alt="mystreak"/>
+<div class="row justify-content-center">
+  <div class="col-6">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOUD-FatimaEzzahra&theme=tokyonight&layout=compact"/>
+  </div>
 </div>
-</div>
-<div>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOUD-FatimaEzzahra&theme=tokyonight&layout=compact"/>
-</div>
+
 
 
 
