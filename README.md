@@ -6,12 +6,6 @@
 	
 
 <!--- stats & Trophy (start) -->
-<style>
-  .stats-cell {
-    background-color: #000000; /* Couleur de fond noire */
-  }
-</style>
-
 <p align="center">
   <!--- stats (start) -->
 <table align="center" border="0">
