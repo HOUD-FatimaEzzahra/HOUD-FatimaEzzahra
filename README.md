@@ -18,7 +18,7 @@
 </div>
 <div>
   <div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOUD-FatimaEzzahra&theme=tokyonight&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOUD-FatimaEzzahra&theme=material-palenight&layout=compact"/>
   </div>
 </div>
 
