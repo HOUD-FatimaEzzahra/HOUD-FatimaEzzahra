@@ -3,6 +3,8 @@
 </div>
 <hr> <!-- Ligne de séparation -->
 
+
+<h2>My Github Stats</h2>
 <div align="center">
   <table align="center" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
     <tr>
@@ -21,6 +23,8 @@
   </div>
 </div>
 <hr> <!-- Ligne de séparation -->
+
+
 
 <div align="center">
   <div>
