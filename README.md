@@ -5,9 +5,9 @@
 <div align="center">
   <div>
     <a href="https://www.facebook.com/people/Fatima-Ezzahra-Houd/pfbid02sKKB8vZL2g7isUqby4FHtqP6pgdcrBd6cPP9F8aQ79Gxz3NKAGk2xWoZRjsHco9ul/?_rdr"><img src="https://img.shields.io/badge/Fatima Ezzahra HOUD-cdd6f4?style=flat&logo=facebook" /></a>
-    <a href="https://www.instagram.com/fatiza_houd/"><img src="https://img.shields.io/badge/Instagram-fatiza houd-eba0ac?style=flat&logo=instagram" /></a>
-    <a href="https://ma.linkedin.com/in/fatima-ezzahra-houd-3b5b731b6"><img src="https://img.shields.io/badge/LinkedIn-Fatima Ezzahra Houd-74c7ec?style=flat&logo=linkedin" /></a>
-    <a href="mailto:f.houd@etu.enset-media.ac.ma"><img src="https://img.shields.io/badge/Gmail-fatimaezzahrahoud14@gmail.com-f2cdcd?style=flat&logo=gmail" /></a>
+    <a href="https://www.instagram.com/fatiza_houd/"><img src="https://img.shields.io/badge/fatiza houd-eba0ac?style=flat&logo=instagram" /></a>
+    <a href="https://ma.linkedin.com/in/fatima-ezzahra-houd-3b5b731b6"><img src="https://img.shields.io/badge/Fatima Ezzahra Houd-74c7ec?style=flat&logo=linkedin" /></a>
+    <a href="mailto:f.houd@etu.enset-media.ac.ma"><img src="https://img.shields.io/badge/fatimaezzahrahoud14@gmail.com-f2cdcd?style=flat&logo=gmail" /></a>
   </div>
 </div>
 <hr> <!-- Ligne de séparation -->
