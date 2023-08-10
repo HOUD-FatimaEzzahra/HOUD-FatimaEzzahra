@@ -8,10 +8,10 @@
   <table align="center" style="border-collapse: collapse;">
     <tr>
       <td style="border: none; padding: 0; text-align: center;">
-        <img src="https://github-readme-stats.vercel.app/api?username=HOUD-FatimaEzzahra&show_icons=true&theme=tokyonight"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=HOUD-FatimaEzzahra&show_icons=true&theme=material-palenight"/>
       </td>
       <td style="border: none; padding: 0; text-align: center;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=HOUD-FatimaEzzahra&theme=tokyonight" alt="mystreak"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=HOUD-FatimaEzzahra&theme=material-palenight" alt="mystreak"/>
       </td>
     </tr>
   </table>
