@@ -6,7 +6,7 @@
 	
 <div class="row">
 <div>
-	![Fatiza's github stats](https://github-readme-stats.vercel.app/api?username=HOUD-FatimaEzzahra&show_icons=true&theme=tokyonight)
+	<img src="https://github-readme-stats.vercel.app/api?username=HOUD-FatimaEzzahra&show_icons=true&theme=tokyonight"/>
 </div>
 <div>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=HOUD-FatimaEzzahra&theme=tokyonight" alt="mystreak"/>
