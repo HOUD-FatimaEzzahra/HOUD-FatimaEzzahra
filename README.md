@@ -1,15 +1,9 @@
-
-
-
 <div align="center">
 	<h1>Hiliw! I'm Fatiza</a> 🌸</h1>
 	<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=HOUD+Fatima-Ezzahra;Engineering+student;Computer+Engineering;Big+Data+and+Cloud+Computing;@+ENSET+Mohammedia"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=#D7BDE2&size=25&center=true&vCenter=true&width=600&height=100&lines=HOUD+Fatima-Ezzahra;Engineering+student;Computer+Engineering;Big+Data+and+Cloud+Computing;@+ENSET+Mohammedia"></a>
 </p>
 	
-
-
-
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -31,9 +25,9 @@
 </tr>
 </table>
 <!--- stats (end) -->
-
-
 </div>
+
+
 <div>
 		<a href="https://www.facebook.com/people/Fatima-Ezzahra-Houd/pfbid02sKKB8vZL2g7isUqby4FHtqP6pgdcrBd6cPP9F8aQ79Gxz3NKAGk2xWoZRjsHco9ul/?_rdr"><img src="https://img.shields.io/badge/Facebook-Fatima Ezzahra HOUD-cdd6f4?style=flat&logo=facebook" /></a>
 			<a href="https://www.instagram.com/fatiza_houd/"><img src="https://img.shields.io/badge/Instagram-fatiza houd-eba0ac?style=flat&logo=instagram" /></a>
