@@ -5,12 +5,12 @@
 </p>
 	
 <div>
-  <table align="center" style="width: 100%;">
+  <table align="center" style="border-collapse: collapse;">
     <tr>
-      <td style="width: 50%; text-align: center;">
+      <td style="border: none; padding: 0; text-align: center;">
         <img src="https://github-readme-stats.vercel.app/api?username=HOUD-FatimaEzzahra&show_icons=true&theme=tokyonight"/>
       </td>
-      <td style="width: 50%; text-align: center;">
+      <td style="border: none; padding: 0; text-align: center;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=HOUD-FatimaEzzahra&theme=tokyonight" alt="mystreak"/>
       </td>
     </tr>
@@ -21,7 +21,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOUD-FatimaEzzahra&theme=tokyonight&layout=compact"/>
   </div>
 </div>
-
 
 
 
