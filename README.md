@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=787b8f&duration=2500&pause=1000&size=35&center=true&vCenter=true&width=1000&lines=Hiliw+I'm+HOUD+Fatima-Ezzahra+🌸;Engineering+student;Computer+Engineering;Big+Data+and+Cloud+Computing;@+ENSET+Mohammedia" />
 </div>
+<hr> <!-- Ligne de séparation -->
 
 <div align="center">
   <table align="center" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
@@ -14,12 +15,14 @@
     </tr>
   </table>
 </div>
+<hr> <!-- Ligne de séparation -->
 
 <div align="center">
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOUD-FatimaEzzahra&theme=material-palenight&layout=compact" />
   </div>
 </div>
+<hr> <!-- Ligne de séparation -->
 
 <div align="center">
   <div>
@@ -29,5 +32,3 @@
     <a href="mailto:f.houd@etu.enset-media.ac.ma"><img src="https://img.shields.io/badge/Gmail-fatimaezzahrahoud14@gmail.com-f2cdcd?style=flat&logo=gmail" /></a>
   </div>
 </div>
-
-
