@@ -33,22 +33,13 @@
 <!--- stats (end) -->
 
 
-
-
- 
-	<br />
-	<div>
+</div>
+<div>
 		<a href="https://www.facebook.com/people/Fatima-Ezzahra-Houd/pfbid02sKKB8vZL2g7isUqby4FHtqP6pgdcrBd6cPP9F8aQ79Gxz3NKAGk2xWoZRjsHco9ul/?_rdr"><img src="https://img.shields.io/badge/Facebook-Fatima Ezzahra HOUD-cdd6f4?style=flat&logo=facebook" /></a>
 			<a href="https://www.instagram.com/fatiza_houd/"><img src="https://img.shields.io/badge/Instagram-fatiza houd-eba0ac?style=flat&logo=instagram" /></a>
 		<a href="https://ma.linkedin.com/in/fatima-ezzahra-houd-3b5b731b6"><img src="https://img.shields.io/badge/LinkedIn-Fatima Ezzahra Houd-74c7ec?style=flat&logo=linkedin" /></a>
 		<a mailto="f.houd@etu.enset-media.ac.ma"><img src="https://img.shields.io/badge/Gmail-fatimaezzahrahoud14@gmail.com-f2cdcd?style=flat&logo=gmail" /></a>
 	</div>
-	<!--<div>
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOUD-FatimaEzzahra&hide_title=true&langs_count=8&layout=compact&hide_border=true&theme=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
-	</div>-->
-	
-	
-</div>
 
 <!--<details>
 	<summary>Projects</summary>
