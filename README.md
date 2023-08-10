@@ -4,7 +4,17 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=HOUD+Fatima-Ezzahra;Engineering+student;Computer+Engineering;Big+Data+and+Cloud+Computing;@+ENSET+Mohammedia"></a>
 </p>
 	
-
+<div class="row">
+	<div>
+		![Fatiza's github stats](https://github-readme-stats.vercel.app/api?username=HOUD-FatimaEzzahra&show_icons=true&theme=tokyonight)
+	</div>
+	<div>
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=HOUD-FatimaEzzahra&theme=tokyonight" alt="mystreak"/>
+	</div>
+	<div>
+		![Fatiza's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOUD-FatimaEzzahra&theme=tokyonight&layout=compact)
+	</div>
+</div>
 ![Fatiza's github stats](https://github-readme-stats.vercel.app/api?username=HOUD-FatimaEzzahra&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HOUD-FatimaEzzahra&theme=tokyonight" alt="mystreak"/>
 ![Fatiza's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOUD-FatimaEzzahra&theme=tokyonight&layout=compact)
