@@ -15,8 +15,6 @@
     </tr>
   </table>
 </div>
-<hr> <!-- Ligne de séparation -->
-
 <div align="center">
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOUD-FatimaEzzahra&theme=material-palenight&layout=compact" />
